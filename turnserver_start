@@ -1,0 +1,6 @@
+#!/bin/bash
+
+IP="115.29.55.106"
+
+turnserver --syslog -a -L $IP -E $IP --max-bps=3000000 -f -m 10 --min-port=32355 --max-port=65535 --user=testuser:testpass --user=gorst:hero -r north.gov  -o -v
+

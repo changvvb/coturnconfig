@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cp \
+turn_server_cert.pem		\
+turnserver.conf 			\
+turnserver.conf.dpkg-new	\
+turn_server_pkey.pem		\
+turnserver_start			\
+turnuserdb.conf				\
+/etc/

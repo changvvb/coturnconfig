@@ -5,11 +5,12 @@
 	cd coturn
 	./configure
 	make
-	make install
+	sudo make install
 
 然后打开turnserver_start更改IP地址
 
 部署相关配置配置文件
 	sudo ./deploy
+
 启动服务
 	./turnserver_start

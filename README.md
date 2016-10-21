@@ -19,7 +19,7 @@ $ cd coturnconfig
 
 ### 4.部署相关配置配置文件
 ```bash
-	$ sudo ./deploy
+$ sudo ./deploy
 ```
 
 ### 5.启动服务

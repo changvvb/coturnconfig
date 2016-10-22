@@ -26,4 +26,4 @@ $ sudo ./deploy
 ```bash
 $ ./turnserver_start
 ```
-<a href="https://www.github.com/changvvb/IM">BACK</a>
+<a href="https://github.com/changvvb/IM#4配置coturn">BACK</a>

@@ -11,7 +11,7 @@ $ sudo make install
 ```
 ### 2.下载与部署
 ```bash
-$ git clone git@github.com:changvvb/coturnconfig.git
+$ git clone https://github.com/changvvb/coturnconfig.git
 $ cd coturnconfig
 ```
 ### 3.配置IP地址
